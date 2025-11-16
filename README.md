@@ -1,7 +1,6 @@
 Este repositório contém exercícios práticos de Programação Orientada a Objetos (POO) em Java, focados nos pilares de Abstração e Polimorfismo.
 O objetivo é entender como criar estruturas flexíveis, reutilizáveis e adaptáveis, aplicando interfaces, classes abstratas e métodos polimórficos.
 
-🧩 Conteúdo dos exercícios
 1️⃣ Abstração
 
 Criação de classes abstratas para definir comportamentos essenciais
